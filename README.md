@@ -21,7 +21,8 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 
 ## OUTPUT
 
-![cn_exp5_ouput](https://github.com/user-attachments/assets/cbec4b5e-8432-4202-9de5-be541541ae7e)
+![cn_exp5_ouput](https://github.com/user-attachments/assets/e48983ca-844a-4633-83ee-21f5e7d012fc)
+
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
