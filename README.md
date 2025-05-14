@@ -17,7 +17,8 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 <BR>
 ## Program 
 
-![cn_exp5_code](https://github.com/user-attachments/assets/de40ab9b-fed0-4b94-bed0-18fcc3708e1d)
+![Screenshot 2025-05-14 111416](https://github.com/user-attachments/assets/c2610daf-96ce-450e-bd21-ed9a41697353)
+
 
 ## OUTPUT
 
